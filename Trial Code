@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int i;
+    char j;
+    printf("TAKIM BUYUKLUGU HESAPLAMA\n");
+    printf("Lutfen takiminizin ismini giriniz -> ");
+    scanf("%c",&j);
+    for(i=0;i<=10000;i++)
+    {
+        printf("%d\n",i);
+    }
+    printf("Buyukluk hesaplaniyor\n");
+    sleep(1);
+    printf("Adam akilli bir takim gir lan bu cok kucuk hesaplayamadim");
+    return 0;
+}
