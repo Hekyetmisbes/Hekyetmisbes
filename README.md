@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Hekyetmisbes
+- 👋 Hi, I’m Harun. You can call me Hekyetmisbes
 - 👀 I’m interested in games, programming 
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C# for Unity Development
 - 📫 How to reach me:
 - Instagram: https://www.instagram.com/hekyetmisbes/ 
-- LinkedIn: https://www.linkedin.com/in/harun-emrecan-karaba%C4%9F-649300226/
+- LinkedIn: https://www.linkedin.com/in/harunemrecankarabag
