@@ -62,11 +62,9 @@
   <a href="https://twitter.com/hekyetmisbes" target="_blank">
     <img width="28" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" alt="Twitter" />
   </a>
-  <img width="8" />
   <a href="https://www.linkedin.com/in/harunemrecankarabag" target="_blank">
     <img width="28" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" />
   </a>
-  <img width="8" />
   <a href="https://www.instagram.com/hekyetmisbes" target="_blank">
     <img width="28" src="https://unpkg.com/simple-icons@7.21.0/icons/instagram.svg" alt="Instagram" />
   </a>
