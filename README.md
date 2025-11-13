@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Harun</h1>
 
 
-## About Me
+<h1 align="center">About Me</h1>
 
 <p align="center">
   Computer Engineering Graduate from Erciyes University <br />
@@ -12,9 +12,9 @@
 
 ---
 
-## Tech Stack & Tools
+<h1 align="center">Tech Stack & Tools</h1>
 
-<div align="left">
+<div align="center">
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
@@ -44,7 +44,7 @@
 
 ---
 
-## GitHub Stats
+<h1 align="center">GitHub Stats</h1>
 
 <div align="center">
   
@@ -56,9 +56,9 @@
 
 ---
 
-## How to Reach Me
+<h1 align="center">How to Reach Me</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/hekyetmisbes" target="_blank">
     <img width="28" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" alt="Twitter" />
   </a>
