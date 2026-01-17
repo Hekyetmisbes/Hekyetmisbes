@@ -29,7 +29,7 @@
 - 🎮 Currently leveling up in **Game Development**
 - 🔥 Engines I play with: **Unity & Unreal**
 - 🧩 I love building **gameplay systems**, mechanics & fun stuff
-- 🏆 Dream Quest: **Create GTA 7** (Rockstar please hire me 👀)
+- 🏆 Dream Quest: **Create GTA 7**
 
 ---
 
