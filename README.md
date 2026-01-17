@@ -47,7 +47,7 @@
 <h1 align="center">GitHub Stats</h1>
 
 <div align="center">
-  
+  [![Hekyetmisbes's GitHub stats](https://github-readme-stats-with-rank.vercel.app/api?username=hekyetmisbes&theme=react)](https://github.com/hekyetmisbes)
   <img src="https://github-readme-stats.vercel.app/api?username=hekyetmisbes&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile" alt="Harun's GitHub Stats" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekyetmisbes&layout=compact&theme=tokyonight" alt="Top Languages" />
