@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/hekyetmisbes" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-🐦-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/hekyetmisbes" target="_blank">
+    <img src="https://img.shields.io/badge/x-🐦-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/harunemrecankarabag" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-💼-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -84,21 +84,9 @@
 
 ---
 
-## 🚀 Featured Builds (Showcase Time)
-
-> Buraya 2-3 repo koyunca profil “oyun stüdyosu gibi” duruyor 👇😄
-
-🎮 **Project #1** — kısa açıklama  
-🔗 https://github.com/hekyetmisbes
-
-🎮 **Project #2** — kısa açıklama  
-🔗 https://github.com/hekyetmisbes
-
----
-
 ## 📬 Contact Me (Ping me!)
 
-📌 Twitter: **@hekyetmisbes**  
+📌 X: **@hekyetmisbes**  
 📌 LinkedIn: **Harun Emre Can Karabağ**  
 📌 Instagram: **@hekyetmisbes**
 
