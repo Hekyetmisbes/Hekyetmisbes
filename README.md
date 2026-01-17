@@ -1,71 +1,100 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Harun</h1>
+<!-- =======================
+      PROFILE README
+======================= -->
 
-
-<h1 align="center">About Me</h1>
+<h1 align="center">Hi, I'm Harun 👋</h1>
 
 <p align="center">
-  Computer Engineering Graduate from Erciyes University <br />
-  Aspiring Game Developer • Unity & Unreal Enthusiast <br />
-  One day, I believe I can develop <b>GTA 7</b>
+  Computer Engineering Graduate • Aspiring Game Developer <br/>
+  Unity & Unreal Enthusiast • C# Developer
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/hekyetmisbes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/harunemrecankarabag" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/hekyetmisbes" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h1 align="center">Tech Stack & Tools</h1>
+## 👨‍💻 About Me
 
-<div align="center">
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-
-  <!-- Unity -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
-  <img width="12" />
-
-  <!-- Unreal Engine -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo" />
-  <img width="12" />
-
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-
-  <!-- React -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" alt="react logo" />
-</div>
-
-<br />
-
-- **Game Engines:** Unity, Unreal Engine  
-- **Programming Language:** C#  
-- **Frontend:** React  
-- **Version Control:** Git & GitHub  
+- 🎓 **Computer Engineering Graduate** (Erciyes University)
+- 🎮 **Game Development** odaklı ilerliyorum (Unity & Unreal)
+- 💡 C# ile gameplay, mechanics ve sistem geliştirmeyi seviyorum
+- 🧠 Hedef: **daha büyük projeler**, daha iyi mimari, daha sağlam kod
+- 🚀 *One day, I believe I can develop GTA 7 😄*
 
 ---
 
-<h1 align="center">GitHub Stats</h1>
-
-<div align="center">
-  [![Hekyetmisbes's GitHub stats](https://github-readme-stats-with-rank.vercel.app/api?username=hekyetmisbes&theme=react)](https://github.com/hekyetmisbes)
-  <img src="https://github-readme-stats.vercel.app/api?username=hekyetmisbes&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile" alt="Harun's GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekyetmisbes&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-</div>
-
----
-
-<h1 align="center">How to Reach Me</h1>
+## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <a href="https://twitter.com/hekyetmisbes" target="_blank">
-    <img width="28" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/harunemrecankarabag" target="_blank">
-    <img width="28" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/hekyetmisbes" target="_blank">
-    <img width="28" src="https://unpkg.com/simple-icons@7.21.0/icons/instagram.svg" alt="Instagram" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="42" alt="Unity" />
+  <img width="14" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" height="42" alt="Unreal Engine" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
+  <img width="14" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="42" alt="React" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Game%20Engines-Unity%20%7C%20Unreal-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-C%23-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-React-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-111827?style=flat-square" />
+</p>
+
+---
+
+## 📌 What I'm Focused On
+
+- ✅ Gameplay mechanics & player controllers  
+- ✅ UI systems & menus  
+- ✅ Clean code, SOLID principles, scalable project structure  
+- ✅ Performance-friendly development habits  
+
+---
+
+## 🌟 Featured Projects (İstersen burayı birlikte dolduralım)
+
+> Buraya en iyi 2-4 projenin linkini koyunca profil çok daha “pro” görünür.
+
+- 🎮 **Project Name 1** — kısa açıklama (Unity / C#)  
+  🔗 Repo: `https://github.com/hekyetmisbes/...`
+
+- 🧩 **Project Name 2** — kısa açıklama (Unreal / Blueprint / C++)  
+  🔗 Repo: `https://github.com/hekyetmisbes/...`
+
+- ⚙️ **Project Name 3** — tool / mini proje  
+  🔗 Repo: `https://github.com/hekyetmisbes/...`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hekyetmisbes&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekyetmisbes&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 💬 Twitter: **@hekyetmisbes**
+- 💼 LinkedIn: **Harun Emre Can Karabağ**
+- 📸 Instagram: **@hekyetmisbes**
+
+<p align="center">
+  <i>Thanks for visiting my profile ⭐</i>
 </p>
