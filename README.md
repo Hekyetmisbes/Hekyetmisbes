@@ -80,6 +80,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hekyetmisbes&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekyetmisbes&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hekyetmisbes&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hekyetmisbes&theme=tokyonight" width="48%"/>
 </p>
 
 ---
