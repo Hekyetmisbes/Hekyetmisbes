@@ -94,14 +94,14 @@ I am also actively improving my Unreal Engine and C++ fundamentals while explori
 ## [ GAME DEVELOPMENT SKILLS ]
 
 ```txt
-Gameplay Programming      ████████████████░░░░
-Unity / C#                ████████████████░░░░
-Mobile Game Development   ██████████████░░░░░░
-UI / HUD / Player Feedback ██████████████░░░░░░
-Game Prototyping          ███████████████░░░░░
-Clean Code / OOP          ███████████████░░░░░
-Unreal Engine             ████████████░░░░░░░░
-C++ for Gameplay          █████████░░░░░░░░░░░
+Gameplay Programming          ████████████████░░░░
+Unity / C#                    ████████████████░░░░
+Mobile Game Development       ██████████████░░░░░░
+UI / HUD / Player Feedback    ██████████████░░░░░░
+Game Prototyping              ███████████████░░░░░
+Clean Code / OOP              ███████████████░░░░░
+Unreal Engine                 ████████████░░░░░░░░
+C++ for Gameplay              █████████░░░░░░░░░░░
 ```
 
 ---
