@@ -1,8 +1,4 @@
-Tabii Harun. Aşağıdaki README, profilini daha net şekilde **Game Developer / Gameplay Programmer** yönüne çekiyor. CV’de öne çıkardığımız **Unity, C#, Unreal Engine learning, gameplay systems, mobile gameplay, UI/HUD, clean code, prototyping ve playable projects** taraflarını daha profesyonel gösteriyor.
 
-Direkt GitHub profile README’ne yapıştırabilirsin:
-
-```md
 ```
 
 ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
