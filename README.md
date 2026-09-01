@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hekyetmisbes.github.io/">
+  <a href="https://hek75.com">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   <a href="https://hekyetmisbes.itch.io/">
